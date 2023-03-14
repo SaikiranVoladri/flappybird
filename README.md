@@ -1,2 +1,0 @@
-# flappybird
-# flappybird
